@@ -1,4 +1,4 @@
-now this is a story all about how
+snow this is a story all about how
 my life got flipped turned upside down
 and I'd like to take a minute just sit right there
 I'll tell you how I become the prince of a town called Bel Air
@@ -16,4 +16,5 @@ I pulled up to the house about 7 or 8
 and I yelled to the cabbie yo homes smell ya later
 looked at my kingdom I was finally there
 to sit on my throne as the prince of Bel-Air
-git commit
+
+The End
